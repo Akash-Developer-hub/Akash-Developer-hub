@@ -13,15 +13,6 @@ Welcome to my GitHub profile! I'm a fullstack developer who loves building fast,
     <th>React.js</th>
     <th>HTML5</th>
     <th>CSS3</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="42" alt="javascript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="typescript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="react"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="html5"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="css3"/></td>
-  </tr>
-  <tr>
     <th>Next.js</th>
     <th>Tailwind CSS</th>
     <th>Node.js</th>
@@ -29,6 +20,11 @@ Welcome to my GitHub profile! I'm a fullstack developer who loves building fast,
     <th>MongoDB</th>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="42" alt="javascript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="typescript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="react"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="html5"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="css3"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="nextjs"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="tailwindcss"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="nodejs"/></td>
@@ -41,15 +37,6 @@ Welcome to my GitHub profile! I'm a fullstack developer who loves building fast,
     <th>Python</th>
     <th>Postman</th>
     <th>Figma</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="git"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="github"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="42" alt="postman"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="figma"/></td>
-  </tr>
-  <tr>
     <th>Bootstrap</th>
     <th>Vercel</th>
     <th>VS Code</th>
@@ -57,6 +44,11 @@ Welcome to my GitHub profile! I'm a fullstack developer who loves building fast,
     <th>n8n</th>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="github"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="42" alt="postman"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="figma"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="bootstrap"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="vercel"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="vscode"/></td>
