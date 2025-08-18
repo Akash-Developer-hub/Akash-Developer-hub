@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a fullstack developer who loves building fast,
 
 # Tech Stack
 
-<table>
+<table align="center" style="width:100%; text-align:center;">
   <tr>
     <th>JavaScript</th>
     <th>TypeScript</th>
@@ -54,12 +54,14 @@ Welcome to my GitHub profile! I'm a fullstack developer who loves building fast,
     <th>Vercel</th>
     <th>VS Code</th>
     <th>MySQL</th>
+    <th>n8n</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="bootstrap"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="vercel"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="vscode"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="mysql"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/45487711" width="42" alt="n8n"/></td>
   </tr>
 </table>
 
