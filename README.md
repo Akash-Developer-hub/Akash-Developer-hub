@@ -4,54 +4,99 @@ Welcome to my GitHub profile! I'm a fullstack developer who loves building fast,
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+<table>
+  <tr>
+    <th>JavaScript</th>
+    <th>TypeScript</th>
+    <th>React.js</th>
+    <th>HTML5</th>
+    <th>CSS3</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="42" alt="javascript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="typescript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="react"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="html5"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="css3"/></td>
+  </tr>
+  <tr>
+    <th>Next.js</th>
+    <th>Tailwind CSS</th>
+    <th>Node.js</th>
+    <th>Express.js</th>
+    <th>MongoDB</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="nextjs"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="tailwindcss"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="nodejs"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="42" alt="express"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="mongodb"/></td>
+  </tr>
+  <tr>
+    <th>Git</th>
+    <th>GitHub</th>
+    <th>Python</th>
+    <th>Postman</th>
+    <th>Figma</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="github"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="42" alt="postman"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="figma"/></td>
+  </tr>
+  <tr>
+    <th>Bootstrap</th>
+    <th>Vercel</th>
+    <th>VS Code</th>
+    <th>MySQL</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="bootstrap"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="vercel"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="vscode"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="mysql"/></td>
+  </tr>
+</table>
 
-### Languages & Backend
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Databases & APIs
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### ⚙Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
-### Testing
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/testing%20library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
-
-### ☁Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akash-developer-hub&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-developer-hub&theme=dark&hide_border=true&layout=compact)
+## Github Contributions 
 
+<p >
+<!-- Full-width, single card layout with even gutters -->
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+  <!-- Row 1: Stats + Streak (two equal columns) -->
+  <tr>
+    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Akash-Developer-hub&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
+        alt="GitHub Stats for Ajay chakravarthi" width="100%">
+    </td>
+    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://streak-stats.demolab.com/?user=Akash-Developer-hub&theme=github-dark&hide_border=true"
+        alt="GitHub Streak for Ajay chakravarthi" width="100%">
+    </td>
+  </tr>
+
+  <!-- Row 2: Activity graph (full width) -->
+  <tr>
+    <td colspan="2" style="padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Developer-hub&theme=github-compact&hide_border=true"
+        alt="GitHub Activity Graph for Akash" width="100%">
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  
 ---
 
 ## Random Dev Quote
