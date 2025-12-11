@@ -72,11 +72,11 @@ Welcome to my GitHub profile! I'm a fullstack developer who loves building fast,
         src="https://github-readme-stats.vercel.app/api?username=Akash-Developer-hub&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"
         alt="GitHub Stats for AKASH" width="100%">
     </td> -->
-    <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
+    <!-- <td style="width:50%; padding:0; background:rgba(255,255,255,.02); border:1px solid rgba(255,255,255,.08); border-radius:8px;">
       <img
         src="https://streak-stats.demolab.com/?user=Akash-Developer-hub&theme=github-dark&hide_border=true"
         alt="GitHub Streak for Ajay chakravarthi" width="100%">
-    </td>
+    </td> -->
   </tr>
 
   <!-- Row 2: Activity graph (full width) -->
